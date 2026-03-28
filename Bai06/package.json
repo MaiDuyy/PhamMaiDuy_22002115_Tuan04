@@ -1,0 +1,12 @@
+{
+  "name": "bai06-node-multistage",
+  "version": "1.0.0",
+  "main": "dist/server.js",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node dist/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
